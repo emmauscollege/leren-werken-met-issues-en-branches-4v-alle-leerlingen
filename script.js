@@ -40,6 +40,16 @@ function draw() {
   rect(0, 0, 800, 450);
   fill("black");
   rect(0 + 10, 0 + 10, 800 - 2 * 10, 450 - 2 * 10);
+  
+  
+  // voeg naam toe
+  fill(255, 0, 0);
+  Text("Carlijn", 100, 100);
+
+// ----------------------------------------
+
+
+
   // bal
   fill("white");
   ellipse(balX, balY, 20, 20);
