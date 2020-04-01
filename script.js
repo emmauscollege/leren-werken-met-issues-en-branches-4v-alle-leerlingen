@@ -44,7 +44,12 @@ function draw() {
   
   // voeg naam toe
   fill(255, 0, 0);
+<<<<<<< HEAD
   text("Witold was hier", balX + 10, balY + 10);
+=======
+  text("Caitlin", 100,100);
+  text("Olivier", 150, 150);
+>>>>>>> Olivier-oefent-met-github
 
 // ----------------------------------------
 
