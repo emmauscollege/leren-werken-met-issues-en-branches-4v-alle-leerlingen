@@ -44,7 +44,7 @@ function draw() {
   
   // voeg naam toe
   fill(255, 0, 0);
-  text("Caitlin", 100,100);
+  text("Witold was hier", balX + 10, balY + 10);
 
 // ----------------------------------------
 
