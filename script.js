@@ -45,6 +45,7 @@ function draw() {
   // voeg naam toe
   fill(255, 0, 0);
   text("Caitlin", 100,100);
+  text("Olivier", 150, 150);
 
 // ----------------------------------------
 
