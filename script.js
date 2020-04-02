@@ -44,20 +44,11 @@ function draw() {
   
   // voeg naam toe: Gijs Arnold
   fill(255, 0, 0);
-<<<<<<< HEAD
-<<<<<<< HEAD
   text("Witold was hier", balX + 10, balY + 10);
-=======
   text("Quinten was hier ni", 100, 150);
   text("Caitlin", 100,100);
   text("Olivier", 150, 150);
->>>>>>> Olivier-oefent-met-github
-=======
   text("Jamie", 200, 150);
->>>>>>> origin/Jamie-oefent-met-GitHub
-
-// ----------------------------------------
-
 
 
   // bal
