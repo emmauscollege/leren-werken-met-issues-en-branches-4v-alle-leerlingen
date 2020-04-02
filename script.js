@@ -42,7 +42,7 @@ function draw() {
   rect(0 + 10, 0 + 10, 800 - 2 * 10, 450 - 2 * 10);
   
   
-  // voeg naam toe
+  // voeg naam toe: Gijs Arnold
   fill(255, 0, 0);
 <<<<<<< HEAD
 <<<<<<< HEAD
