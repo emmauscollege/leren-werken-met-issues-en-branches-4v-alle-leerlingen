@@ -49,6 +49,7 @@ function draw() {
   text("Caitlin", 100,100);
   text("Olivier", 150, 150);
   text("Jamie", 200, 150);
+  text("Precia", 200, 100);
 
 
   // bal
