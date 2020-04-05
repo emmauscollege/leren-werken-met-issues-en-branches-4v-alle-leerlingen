@@ -50,6 +50,7 @@ function draw() {
   text("Olivier", 150, 150);
   text("Jamie", 200, 150);
   text("Precia", 200, 100);
+  text("Frederique was hier", 200, 200)
 
 
   // bal
