@@ -52,7 +52,7 @@ function draw() {
   text("Precia", 200, 100);
   text("Frederique was hier", 200, 200)
   text("Lisanne was hier", 200, 250)
-
+  text("Volkan", 300,200)
 
   // bal
   fill("white");
