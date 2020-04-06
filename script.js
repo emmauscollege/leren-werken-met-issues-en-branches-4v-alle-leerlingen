@@ -51,6 +51,7 @@ function draw() {
   text("Jamie", 200, 150);
   text("Precia", 200, 100);
   text("Frederique was hier", 200, 200)
+  text("Lisanne was hier", 200, 250)
 
 
   // bal
