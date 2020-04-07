@@ -53,6 +53,7 @@ function draw() {
   text("Frederique was hier", 200, 200)
   text("Lisanne was hier", 200, 250)
   text("Volkan", 300,200)
+  text("Naomi was hier", 550, 200);
 
   // bal
   fill("white");
