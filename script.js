@@ -54,7 +54,7 @@ function draw() {
   text("Lisanne was hier", 200, 250)
   text("Volkan", 300,200)
   text("Naomi was hier", 540, 200);
-
+  text("Rajiv",250,300);
   // bal
   fill("white");
   ellipse(balX, balY, 20, 20);
