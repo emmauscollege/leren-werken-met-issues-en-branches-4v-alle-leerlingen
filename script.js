@@ -54,6 +54,10 @@ function draw() {
   text("Lisanne was hier", 200, 250)
   text("Volkan", 300,200)
   text("Naomi was hier", 540, 200);
+<<<<<<< HEAD
+=======
+  text("lars", 300, 300);
+>>>>>>> origin/lars-oefent-met-github
 
   // bal
   fill("white");
