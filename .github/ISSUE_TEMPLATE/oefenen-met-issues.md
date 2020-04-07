@@ -24,7 +24,7 @@ Er ontstaan in de loop van de tijd waarschijnlijk een groot aantal issues. Om do
 Een medeleerling of docent kan onder een issue commentaar toevoegen. Zo kan er een 'discussie' ontstaan waardoor duidelijker wordt wat er precies moet gebeuren.
 - [ ] Voeg onder dit issue een nieuw commentaar toe en 'start' daarmee een discussie.
 
-Je GitHub-repository heeft ook [planborden](https://github.com/informatica-emmauscollege/playground/projects/1) om bij te houden welke issues / taken nog gedaan moeten worden, welke op dit moment door iemand zijn opgepakt en  welke zijn afgerond. Een nieuw issue komt automatisch onder To Do te staan.
+Je GitHub-repository heeft ook [planborden](https://github.com/informatica-emmauscollege/leren-werken-met-issues-en-branches-4v-alle-leerlingen/projects/1) om bij te houden welke issues / taken nog gedaan moeten worden, welke op dit moment door iemand zijn opgepakt en  welke zijn afgerond. Een nieuw issue komt automatisch onder To Do te staan.
 - [ ] Ga naar het planboard en zoek bij To Do naar het kaartje van dit issue. Wijs onder 'assignees' jezelf toe als persoon die dit issue gaat aanpakken.
 - [ ] Verplaats het kaartje van dit issue op het To-Do-bord naar het In-Progress-bord.
 
@@ -35,12 +35,12 @@ Omdat je met meerdere mensen tegelijkertijd aan de code wilt kunnen werken, maak
 
 We hebben een eigen branch aangemaakt en gaan nu naar een programmeeromgeving om de code van de game aan te passen. Wij gebruiken hiervoor [GitPod.io](http://gitpod.io) .
 - [ ] Log in op GitPod.
-- [ ] De **eerste keer** dat je een repository van GitHub wilt bewerken in GitPod, gebruik je een speciale link: http://gitpod.io/# en daarachter gelijk de URL van het GitHub repository. Nu dus [http://gitpod.io/#https://github.com/informatica-emmauscollege/playground](http://gitpod.io/#https://github.com/informatica-emmauscollege/playground). Het repository zit nu in GitPod. De volgende keer is inloggen genoeg.
+- [ ] De **eerste keer** dat je een repository van GitHub wilt bewerken in GitPod, gebruik je een speciale link: http://gitpod.io/# en daarachter gelijk de URL van het GitHub repository. Nu dus [http://gitpod.io/#https://github.com/informatica-emmauscollege/leren-werken-met-issues-en-branches-4v-alle-leerlingen](http://gitpod.io/#https://github.com/informatica-emmauscollege/leren-werken-met-issues-en-branches-4v-alle-leerlingen). Het repository zit nu in GitPod. De volgende keer is inloggen genoeg.
 - [ ] Zorg dat je in de workspace zit van dit playground repository.
 - [ ] Klik links onderin op 'master' en kies vervolgens de branch die je zojuist op github hebt aangemaakt.
 - [ ] Ga naar de file 'script.js' en voeg ook jouw naam toe op de plek waar de achtergrond getekend wordt.
 - [ ] Kies in GitPod File -> Save All.
-- [ ] Controleer met preview of het commando python3 http.server -m 3000 of je wijziging goed is. Zo niet, blijf programmeren, opslaan en controleren.
+- [ ] Controleer met preview of het commando python3 -m http.server 3000 of je wijziging goed is. Zo niet, blijf programmeren, opslaan en controleren.
 - [ ] Kies in de linkerkolom de optie *Source control: Git* en commit het gewijzigde bestand. Geef de commit een duidelijke beschrijving.
 
 Je hebt nu in jouw branch in de omgeving van GitPod een wijziging aangebracht. Je gaat nu jouw branch op GitHub 'updaten'. Dit heet *pushen*.
