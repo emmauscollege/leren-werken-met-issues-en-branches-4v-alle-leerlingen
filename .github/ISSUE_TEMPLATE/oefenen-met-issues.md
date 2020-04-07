@@ -31,7 +31,7 @@ Je GitHub-repository heeft ook [planborden](https://github.com/informatica-emmau
 Nu we weten wie dit issue gaat oppakken en het In Progress hebben gezet, wordt het tijd om de code aan te passen zodat we het issue 'oplossen'. Laten we er vanuit gaan dat dit issue opgelost is als je je naam in het scherm van de game hebt gezet.
 
 Omdat je met meerdere mensen tegelijkertijd aan de code wilt kunnen werken, maak je in GitHub een eigen branch aan. Dit geeft je de mogelijkheid om zonder door anderen gestoord te worden onze eigen wijzigingen aan te brengen. Als je de uiteindelijke oplossing voor dit issue hebben geprogrammeerd, kun je je branch gaan samenvoegen (dit heet mergen) met het grote geheel.  
-- [ ] Ga naar de [code](https://github.com/informatica-emmauscollege/playground) van het repository en maak daar een nieuwe branch aan. Geef de branch dezelfde naam als de titel van het bijbehorende issue (nu dus "[[je naam]] oefent met GitHub").
+- [ ] Ga naar de [code](https://github.com/informatica-emmauscollege/leren-werken-met-issues-en-branches-4v-alle-leerlingen) van het repository en maak daar een nieuwe branch aan. Geef de branch dezelfde naam als de titel van het bijbehorende issue (nu dus "[[je naam]] oefent met GitHub").
 
 We hebben een eigen branch aangemaakt en gaan nu naar een programmeeromgeving om de code van de game aan te passen. Wij gebruiken hiervoor [GitPod.io](http://gitpod.io) .
 - [ ] Log in op GitPod.
