@@ -54,6 +54,7 @@ function draw() {
   text("Lisanne was hier", 200, 250)
   text("Volkan", 300,200)
   text("Naomi was hier", 540, 200);
+  text("Maureen was hier", 540, 150);
   text("b0ris,", 333, 333);
 <<<<<<< HEAD
 <<<<<<< HEAD
