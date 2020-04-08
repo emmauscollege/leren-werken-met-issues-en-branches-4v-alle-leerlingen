@@ -56,18 +56,9 @@ function draw() {
   text("Naomi was hier", 540, 200);
   text("b0ris,", 333, 333);
   text("ChRiS",419,421);
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
   text("Rajiv",250,300);
-=======
-<<<<<<< HEAD
->>>>>>> Rajiv-oefent-met-Github
-=======
   text("lars", 300, 300);
->>>>>>> origin/lars-oefent-met-github
 
->>>>>>> master
   // bal
   fill("white");
   ellipse(balX, balY, 20, 20);
