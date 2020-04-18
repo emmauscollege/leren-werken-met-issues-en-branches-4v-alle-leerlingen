@@ -59,6 +59,7 @@ function draw() {
   text("Rajiv",250,300);
   text("lars", 300, 300);
   text("DiRk", 300, 100);
+  text("Alessandra", 50, 50);
 
   // bal
   fill("white");
