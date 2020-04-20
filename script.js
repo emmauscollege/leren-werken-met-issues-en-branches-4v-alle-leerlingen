@@ -50,6 +50,7 @@ function draw() {
   text("Olivier", 150, 150);
   text("Jamie", 200, 150);
   text("Precia", 200, 100);
+  text("Ayoub was hier", balX + 30, balY + 45)
   text("Frederique was hier", 200, 200)
   text("Lisanne was hier", 200, 250)
   text("Volkan", 300,200)
