@@ -61,7 +61,7 @@ function draw() {
   text("lars", 300, 300);
   text("DiRk", 300, 100);
   text("Alessandra", 50, 50);
-
+text("Thomas", balX - 30, balY - 30);
   // bal
   fill("white");
   ellipse(balX, balY, 20, 20);
